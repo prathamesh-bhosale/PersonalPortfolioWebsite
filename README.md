@@ -1,12 +1,16 @@
 ## Freelancer Software Developer Here👋
 
+# Hey, I'm Prathamesh Pradip Bhosalw 👋
 
-- I'm Prathamesh Pradip Bhosale
-- 🔭 I’m currently working on Freelancing Open - Source Projects
-- 🌱 I’m currently learning new technologies in OpenSource Projects (FLOSS / FOSS )
-- 👯 I’m looking to collaborate on OpenSource Projects (FLOSS / FOSS )
-- 🤔 I’m looking for help with OpenSource Projects (FLOSS / FOSS )
-- 💬 Ask me about Software Development
-- 📫 How to reach me: on Github Linkedin
-- ⚡ Fun fact: GNU / Linux is better than only GNU or only Linux
-  
+**Freelance Engineer | India** 🇮🇳  
+Building systems with Programming
+
+## 🚀 What I'm Working On
+- **Current Role**: Working on Free OpenSource and Libre Software and Freelancing Projects
+- **Learning**: Software Development , System Administrator/DevOps , CyberSecurity and Freelancing Opensource
+- **Passion**: Free Libre Open Source Software (FLOSS)
+
+## 💻 Tech Stack
+**Backend**: Python , JavaScript ,Java, Spring Boot, MySQL/MariaDB , MongoDB  
+**SysAdmin**: Docker  , AWS, GitHub CI   
+**Tools**: Git, Linux , VSCode 
