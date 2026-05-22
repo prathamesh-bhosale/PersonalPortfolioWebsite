@@ -1,6 +1,6 @@
 ## Freelancer Software Developer Here👋
 
-# Hey, I'm Prathamesh Pradip Bhosalw 👋
+# Hey, I'm Prathamesh Pradip Bhosale 👋
 
 **Freelance Engineer | India** 🇮🇳  
 Building systems with Programming
