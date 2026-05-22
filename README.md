@@ -12,5 +12,5 @@ Building systems with Programming
 
 ## 💻 Tech Stack
 **Backend**: Python , JavaScript ,Java, Spring Boot, MySQL/MariaDB , MongoDB  
-**SysAdmin**: Docker  , AWS, GitHub CI   
+**SysAdmin**: Docker , Google CLoud , Microsoft Azure , AWS, GitHub CI   
 **Tools**: Git, Linux , VSCode 
